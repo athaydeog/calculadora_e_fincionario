@@ -1,0 +1,12 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "Gerando modulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miguel22",
+  "license": "ISC",
+  "type": "module"
+}
